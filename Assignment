@@ -1,0 +1,44 @@
+{
+  "Polygon": [
+    {
+      "name": "Polygon",
+      "url": "https://polygon.technology/",
+      "details": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks."
+    },
+    {
+      "name": "QuickSwap",
+      "url": "https://quickswap.exchange/",
+      "details": "QuickSwap is a decentralized exchange (DEX) built on the Polygon network, offering fast and low-cost transactions."
+    },
+    {
+      "name": "Aavegotchi",
+      "url": "https://aavegotchi.com/",
+      "details": "Aavegotchi is a decentralized finance (DeFi) game built on the Polygon network, combining DeFi and NFTs."
+    },
+    {
+      "name": "PolyGaj",
+      "url": "https://polygaj.finance/",
+      "details": "PolyGaj is a decentralized financial ecosystem on the Polygon network, providing yield farming and staking services."
+    },
+    {
+      "name": "PolyCash",
+      "url": "https://polycash.finance/",
+      "details": "PolyCash is a decentralized lending platform built on the Polygon network, offering lending, borrowing, and yield farming."
+    },
+    {
+      "name": "Polycat Finance",
+      "url": "https://polycat.finance/",
+      "details": "Polycat Finance is a decentralized finance (DeFi) platform on the Polygon network, featuring yield farming, staking, and decentralized exchange services."
+    },
+    {
+      "name": "PolyStarter",
+      "url": "https://polystarter.app/",
+      "details": "PolyStarter is a decentralized fundraising platform built on the Polygon network, offering launchpad services for new projects."
+    },
+    {
+      "name": "PolyCrystal",
+      "url": "https://polycrystal.finance/",
+      "details": "PolyCrystal is a decentralized finance (DeFi) platform on the Polygon network, providing yield farming and staking services."
+    }
+  ]
+}
