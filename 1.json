@@ -1,0 +1,19 @@
+{
+  "Ethereum": [
+    {
+      "name": "Polygon",
+      "url": "https://polygon.technology/",
+      "details": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks."
+    },
+    {
+      "name": "QuickSwap",
+      "url": "https://quickswap.exchange/",
+      "details": "QuickSwap is a decentralized exchange (DEX) built on the Polygon network, offering fast and low-cost transactions."
+    },
+    {
+      "name": "Aavegotchi",
+      "url": "https://aavegotchi.com/",
+      "details": "Aavegotchi is a decentralized finance (DeFi) game built on the Polygon network, combining DeFi and NFTs."
+    }
+  ]
+}
